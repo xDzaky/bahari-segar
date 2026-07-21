@@ -1,0 +1,5 @@
+# Temporary / generated files
+*.log
+page_ids.json
+.DS_Store
+NOWDOC;
