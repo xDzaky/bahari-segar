@@ -8,12 +8,12 @@
 
 /* --- Design Tokens --- */
 :root {
-    --surface-primary: #12181B;
-    --surface-paper: #E7E9E1;
-    --accent-stamp: #C2401C;
+    --surface-primary: #0A1628;
+    --surface-paper: #EAF2FB;
+    --accent-stamp: #0077B6;
     --text-steel: #7A8481;
     --line-cold: #2E4A4A;
-    --surface-deep: #0D1316;
+    --surface-deep: #06101F;
 }
 
 /* --- Global Reset --- */
@@ -56,7 +56,7 @@ h3 { font-size: clamp(1.3rem, 2.5vw, 2rem); }
 
 /* --- Astra Header --- */
 .site-header, .ast-site-header-wrap {
-    background-color: #0D1316 !important;
+    background-color: #06101F !important;
     border-bottom: 1px solid #1E2A2A !important;
 }
 .ast-logo-img { max-height: 40px !important; }
@@ -112,7 +112,7 @@ h3 { font-size: clamp(1.3rem, 2.5vw, 2rem); }
 
 /* --- Astra Footer --- */
 .site-footer, .ast-small-footer {
-    background-color: #0D1316 !important;
+    background-color: #06101F !important;
     border-top: 1px solid #1E2A2A !important;
 }
 .ast-small-footer .ast-footer-copyright {
